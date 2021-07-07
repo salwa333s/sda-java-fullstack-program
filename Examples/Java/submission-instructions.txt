@@ -1,0 +1,16 @@
+1. Login in to git & create one repository
+2. name the repository as firstname-lastname-jfs-sda
+3. clone the repository into your local machine
+3.1 create one folder to mention the phase
+4. create one folder inside the repository as per the lesson
+	ex: lesson1, lesson2, lesson3
+5. once you are done with the program in the appropriate lesson folder
+5.1 you can push the solution to the git
+	git add .
+	git commit -m 'message'
+	git push -u origin main
+6. create one write up document and mention the details of your git url and which lesson number & 
+	the excersise.
+7. take the screen shot of your output, make the zip of your solution i.e, java codes
+8. locate the place in lms where to sumit the exercise
+9. sumbit - write up, screeshot & solution in the LMS
